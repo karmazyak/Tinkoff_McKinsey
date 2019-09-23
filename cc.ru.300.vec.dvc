@@ -1,0 +1,8 @@
+md5: d01b846e6e10e6bbf9b61e5b54b674fe
+wdir: .
+outs:
+- md5: 50c2842418450bf2d77179cec1a8361e
+  path: cc.ru.300.vec
+  cache: true
+  metric: false
+  persist: false
